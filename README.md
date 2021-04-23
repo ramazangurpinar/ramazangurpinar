@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **r.gurpinar@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Accounts:</h3>
 <p align='center'>
   <a href="https://linkedin.com/in/ramazangurpinar/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
