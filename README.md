@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ramazan</h1>
 <h3 align="center">Full-Stack Developer (INTERN) at 
-  <img src="assests/dt.jpg" alt="DT" width="40" height="40"/> 
+  <a href="https://www.d-teknoloji.com.tr/" target="_blank">
+    Doğuş Teknoloji 
+  </a> 
 </h3>
 
 - 🌱 I’m currently learning **Vue, Vuetify, TypeScript**
