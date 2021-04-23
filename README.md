@@ -6,9 +6,13 @@
 - 📫 How to reach me **r.gurpinar@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ramazangurpinar" target="blank">Linkedin </a>
-<a href="https://www.hackerrank.com/ramazangurpinar" target="blank">Hackerrank</a>
+<p align='center'>
+  <a href="https://linkedin.com/in/ramazangurpinar/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/ramazangurpinar">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>    
+  </a>&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
