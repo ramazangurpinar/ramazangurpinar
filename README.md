@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramazan</h1>
-<h3 align="center">Full-Stack Developer (INTERN) at 
+<h3 align="center">Full-Stack Developer at 
   <a href="https://www.d-teknoloji.com.tr/" target="_blank">
     Doğuş Teknoloji 
   </a> 
