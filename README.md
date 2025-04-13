@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ramazan</h1>
-<h3 align="center">Full-Stack Developer at 
-  <a href="https://www.d-teknoloji.com.tr/" target="_blank">
+<h3 align="center">Master Student at 
+  <p>
     Doğuş Teknoloji 
-  </a> 
+  </p>  
 </h3>
 
-- 🌱 I’m currently learning **Vue, Vuetify, TypeScript**
-
-- 📫 How to reach me **r.gurpinar@hotmail.com**
+- 📫 How to reach me **ramazan.gurpinar@yahoo.com**
 
 <h3 align="left">My Accounts:</h3>
 <p align='center'>
