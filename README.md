@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramazan</h1>
 <h3 align="center">Master Student at 
   <p>
-    Doğuş Teknoloji 
+    Oxford Brookes University 
   </p>  
 </h3>
 
