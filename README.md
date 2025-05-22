@@ -5,7 +5,7 @@
   </p>  
 </h3>
 
-- 📫 How to reach me **ramazan.gurpinar@yahoo.com**
+- 📫 How to reach me **gurpinarramazan@outlook.com**
 
 <h3 align="left">My Accounts:</h3>
 <p align='center'>
